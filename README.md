@@ -24,5 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=victor-casta&show_icons=true&locale=en" alt="victor-casta" /></p>
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
