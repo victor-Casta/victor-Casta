@@ -1,4 +1,3 @@
-# I´m Victor Arroyave
 # 💫 About Me:
 🌱 I’m currently learning Vue, astro, react, vite<br><br>💬 Ask me about JavaScript<br><br>📫 How to reach me victorarroyavecastaneda@gmail.com<br>
 
