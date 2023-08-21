@@ -1,3 +1,4 @@
+![](https://drive.google.com/file/d/1bji1JRvdicdtKsB8zzbvA-GEJuyblQNL/view?usp=drive_link)
 # 💫 About Me:
 🌱 I’m currently learning Vue, astro, react, vite<br><br>💬 Ask me about JavaScript<br><br>📫 How to reach me victorarroyavecastaneda@gmail.com<br>
 
