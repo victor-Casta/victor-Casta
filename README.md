@@ -1,4 +1,4 @@
-![](https://firebasestorage.googleapis.com/v0/b/pokemonrandom-63de2.appspot.com/o/banner.jpg?alt=media&token=8137180a-7757-4704-8efb-c967bbc9798d](https://firebasestorage.googleapis.com/v0/b/pokemonrandom-63de2.appspot.com/o/banner2.jpg?alt=media&token=e1e4ebf2-de0a-4ec1-8a71-7bada132f225)](https://firebasestorage.googleapis.com/v0/b/pokemonrandom-63de2.appspot.com/o/banner2.jpg?alt=media&token=e1e4ebf2-de0a-4ec1-8a71-7bada132f225))
+![](https://firebasestorage.googleapis.com/v0/b/pokemonrandom-63de2.appspot.com/o/banner.jpg?alt=media&token=8137180a-7757-4704-8efb-c967bbc9798d)
 # 💫 About Me:
 🌱 I’m currently learning Vue, astro, react, vite<br><br>💬 Ask me about JavaScript<br><br>📫 How to reach me victorarroyavecastaneda@gmail.com<br>
 
