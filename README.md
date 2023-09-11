@@ -1,7 +1,8 @@
+<<<<<<< HEAD
 ![](https://firebasestorage.googleapis.com/v0/b/pokemonrandom-63de2.appspot.com/o/banner2.jpg?alt=media&token=e1e4ebf2-de0a-4ec1-8a71-7bada132f225)
-# 💫 About Me:
-🌱 I’m currently learning Vue, astro, react, vite<br><br>💬 Ask me about JavaScript<br><br>📫 How to reach me victorarroyavecastaneda@gmail.com<br>
 
+<br>📫 How to reach me victorarroyavecastaneda@gmail.com<br>
+>>>>>>> e98c212 ([UPDATE] change opcions)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/victor_casta) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/victorac77) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/varroyavecastaeda) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/VictorArroyav16) 
